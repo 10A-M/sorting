@@ -24,7 +24,7 @@ public class NewSort {
                }     
             }     
         }    
-          
+           
         System.out.println();    
             
         //Displaying elements of array after sorting    
